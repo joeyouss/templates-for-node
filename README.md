@@ -3,6 +3,7 @@
 This repository contains Appwrite Function templates for the Node runtime. 
 
 [THIS IS A TEST CHANGE] 
+[ANOTHER TEST]
 
 ## Templates
 
